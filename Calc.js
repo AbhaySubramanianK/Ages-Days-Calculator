@@ -1,3 +1,3 @@
 var age = prompt("Enter your age : ");
-days = age*365;
+var days = age*365.25;
 alert("You have lived "+days+" days !");
